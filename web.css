@@ -50,3 +50,21 @@
 	font-weight: bold; 
 	background-color: #e5e2db;
 }
+
+aside {
+	display: block;
+	margin: 25px 100px;
+	padding: 8 25 8 25;
+	border-radius: 10px;
+	vertical-align: middle;
+}
+
+aside.comment {
+	background-color: maroon;
+	color: white;
+}
+
+aside.assignment {
+	background-color: green;
+	color: rgb(227,227,227);
+}
